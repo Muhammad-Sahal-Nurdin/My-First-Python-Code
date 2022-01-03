@@ -1,2 +1,3 @@
-Leader: Muhammad Sahal Nurdin
-Staff:-
+Leader: Muhammad Sahal Nurdin.
+Staff:10
+done!
